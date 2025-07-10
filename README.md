@@ -4,3 +4,4 @@
 - Employed GD+T best practices to optimize production and reduce scrap rate
 
 ![DC Tacho](dcTacho.PNG)
+
